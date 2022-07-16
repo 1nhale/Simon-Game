@@ -24,4 +24,4 @@
 
 ---
 
-<p align="center"><em>2021 &copy; Simon Game, 1nhale</em></p>
+<p align="center"><em>2022 &copy; Simon Game, 1nhale</em></p>
